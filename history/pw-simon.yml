@@ -1,7 +1,7 @@
-url: https://pw.pi94.de
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2024-09-08T21:02:13.765Z
+url: $sbit
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-08T21:07:08.562Z
 startTime: 2024-09-08T19:26:30.891Z
 generator: Upptime <https://github.com/upptime/upptime>
