@@ -1,56 +1,62 @@
 [
   {
     "name": "PW-Manager",
-    "url": "https://pwm.mm300.tk",
-    "icon": "https://icons.duckduckgo.com/ip3/pwm.mm300.tk.ico",
+    "url": "$mbit",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-manager",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 820,
     "timeDay": 820,
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "PW-Simon",
-    "url": "https://pw.pi94.de",
-    "icon": "https://icons.duckduckgo.com/ip3/pw.pi94.de.ico",
+    "url": "$sbit",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-simon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 939,
     "timeDay": 939,
     "timeWeek": 939,
     "timeMonth": 939,
     "timeYear": 939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "Joseph",
-    "url": "https://it-mertens.de",
-    "icon": "https://icons.duckduckgo.com/ip3/it-mertens.de.ico",
+    "url": "$itm",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "joseph",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 848,
     "timeDay": 848,
     "timeWeek": 848,
     "timeMonth": 848,
     "timeYear": 848,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   }
 ]
