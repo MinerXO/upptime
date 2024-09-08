@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-manager",
     "status": "up",
-    "uptime": "97.55%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "97.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 771,
     "timeDay": 771,
     "timeWeek": 771,
     "timeMonth": 771,
     "timeYear": 771,
-    "dailyMinutesDown": {
-      "2024-09-08": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PW-Simon",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-simon",
     "status": "up",
-    "uptime": "97.55%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "97.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 888,
     "timeDay": 888,
     "timeWeek": 888,
     "timeMonth": 888,
     "timeYear": 888,
-    "dailyMinutesDown": {
-      "2024-09-08": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Joseph",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "joseph",
     "status": "up",
-    "uptime": "97.51%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 840,
     "timeDay": 840,
     "timeWeek": 840,
     "timeMonth": 840,
     "timeYear": 840,
-    "dailyMinutesDown": {
-      "2024-09-08": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
