@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: PW-Manager
-    url: $mbit
+    url: $MBIT
   - name: PW-Simon
-    url: $sbit
+    url: $SBIT
   - name: Joseph
-    url: $itm
+    url: $ITM
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
