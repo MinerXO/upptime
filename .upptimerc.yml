@@ -3,11 +3,11 @@ owner: MinerXO # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 runner: "[self-hosted, linux]"
 sites:
-  - name: PW-Manager
+  - name: PW-Manager1
     url: $MBIT
-  - name: PW-Simon
+  - name: PW-Simon2
     url: $SBIT
-  - name: Joseph
+  - name: Joseph3
     url: $ITM
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
