@@ -25,6 +25,7 @@ on:
 jobs:
   release:
     name: Setup Upptime
+    runs-on: [linux, ARM64]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
