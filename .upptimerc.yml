@@ -10,7 +10,8 @@ sites:
   - name: Joseph
     url: $ITM
   - name: 1blu
-    url: 195.90.215.0
+    url: $oneblu
+    check: "tcp-ping"
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
