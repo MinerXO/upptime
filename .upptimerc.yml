@@ -10,7 +10,7 @@ sites:
   - name: Joseph
     url: $ITM
   - name: 1blu
-    url: $oneblu
+    url: $ONEBLU
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
