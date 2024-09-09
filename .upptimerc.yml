@@ -12,6 +12,7 @@ sites:
   - name: 1blu
     url: $oneblu
     check: "tcp-ping"
+    port: 9443
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
