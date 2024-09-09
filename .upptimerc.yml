@@ -2,13 +2,13 @@
 owner: MinerXO # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 #runner: "[self-hosted, linux]"
-sites:
-  - name: PW-Manager
-    url: $MBIT
-  - name: PW-Simon
-    url: $SBIT
-  - name: Joseph
-    url: $ITM
+#sites:
+#  - name: PW-Manager
+#    url: $MBIT
+#  - name: PW-Simon
+#    url: $SBIT
+#  - name: Joseph
+#    url: $ITM
 #  - name: 1blu
 #    check: "tcp-ping"
 #    url: 195.90.215.0
