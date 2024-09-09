@@ -11,7 +11,7 @@ sites:
     url: $ITM
   - name: 1blu
     check: "tcp-ping"
-    url: matrix.mm300.tk
+    url: 195.90.215.0
     port: 9443
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
