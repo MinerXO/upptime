@@ -10,8 +10,8 @@ sites:
   - name: Joseph
     url: $ITM
   - name: 1blu
-    url: $oneblu
     check: "tcp-ping"
+    url: matrix.mm300.tk
     port: 9443
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
@@ -23,7 +23,7 @@ sites:
 assignees:
   - MinerXO
 status-website:
-  theme: dark
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
