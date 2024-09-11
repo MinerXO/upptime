@@ -6,19 +6,19 @@ sites:
   - name: PW-Manager
     url: $MBIT
     check: "tcp-ping"
-    port: 9443
+    port: 80
   - name: PW-Simon
     url: $SBIT
     check: "tcp-ping"
-    port: 443
+    port: 80
   - name: Joseph
     url: $ITM
     check: "tcp-ping"
-    port: 443
+    port: 80
   - name: 1blu
     url: $ONEBLU
     check: "tcp-ping"
-    port: 443
+    port: 80
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
