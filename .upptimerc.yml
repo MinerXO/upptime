@@ -5,14 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: PW-Manager
     url: $MBIT
+    check: "tcp-ping"
+    port: 9443
   - name: PW-Simon
     url: $SBIT
+    check: "tcp-ping"
+    port: 443
   - name: Joseph
     url: $ITM
-  - name: 1blu
     check: "tcp-ping"
+    port: 443
+  - name: 1blu
     url: $ONEBLU
-    port: 9443
+    check: "tcp-ping"
+    port: 443
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
