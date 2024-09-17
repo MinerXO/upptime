@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-manager",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.04%",
-    "uptimeMonth": "96.21%",
-    "uptimeYear": "96.21%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "96.42%",
     "time": 689,
     "timeDay": 835,
     "timeWeek": 669,
@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-simon",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.47%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 870,
     "timeDay": 1128,
     "timeWeek": 858,
@@ -66,9 +66,9 @@
     "url": "$ONEBLU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "1blu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +77,8 @@
     "timeWeek": 108,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   }
 ]
