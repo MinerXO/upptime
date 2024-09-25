@@ -48,19 +48,19 @@
     "url": "$ITM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "joseph",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 1041,
-    "timeWeek": 884,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 835,
+    "timeDay": 885,
+    "timeWeek": 865,
+    "timeMonth": 835,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-09-25": 0
+      "2024-09-25": 19
     }
   },
   {
