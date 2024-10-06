@@ -48,6 +48,6 @@ status-website:
 workflowSchedule:
   uptime: "2-58/5 0-2,4-23 * * *"
 
-skipDescriptionUpdate: true
-skipTopicsUpdate: false
-skipHomepageUpdate: true
+#skipDescriptionUpdate: true
+#skipTopicsUpdate: false
+#skipHomepageUpdate: true
