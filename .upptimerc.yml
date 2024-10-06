@@ -23,7 +23,7 @@ sites:
 assignees:
   - MinerXO
 status-website:
-  theme: dark
+  theme: night
   robotsText: "User-agent: * \n Disallow: /"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -49,5 +49,5 @@ workflowSchedule:
   uptime: "2-58/5 0-2,4-23 * * *"
 
 skipDescriptionUpdate: true
-skipTopicsUpdate: true
+skipTopicsUpdate: false
 skipHomepageUpdate: true
