@@ -4,8 +4,8 @@
     "url": "$MBIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-manager",
-    "status": "down",
-    "uptime": "99.30%",
+    "status": "up",
+    "uptime": "100%",
     "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
@@ -16,7 +16,6 @@
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2024-10-08": 0,
       "2024-09-12": 123,
       "2024-09-11": 25,
       "2024-09-10": 137
