@@ -8,6 +8,8 @@ sites:
     url: $SBIT
   - name: Joseph
     url: $ITM
+    assignees:
+      - Sametor
   - name: 1blu
     url: $ONEBLU
 #    check: "tcp-ping"
