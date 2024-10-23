@@ -1,6 +1,6 @@
 owner: MinerXO # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-#runner: "[self-hosted, linux]"
+runner: "[self-hosted]"
 sites:
   - name: PW-Manager
     url: $MBIT
@@ -10,8 +10,8 @@ sites:
     url: $ITM
   - name: 1blu
     url: $ONEBLU
-    check: "tcp-ping"
-    port: 443
+#    check: "tcp-ping"
+#    port: 443
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
