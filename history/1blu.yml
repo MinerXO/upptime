@@ -1,7 +1,7 @@
 url: $ONEBLU
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-14T20:18:51.651Z
+status: up
+code: 200
+responseTime: 24
+lastUpdated: 2024-11-14T20:54:40.318Z
 startTime: 2024-09-09T17:53:06.809Z
 generator: Upptime <https://github.com/upptime/upptime>
