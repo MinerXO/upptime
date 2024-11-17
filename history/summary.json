@@ -6,7 +6,7 @@
     "slug": "pw-manager",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "95.84%",
+    "uptimeDay": "100%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.92%",
@@ -16,7 +16,6 @@
     "timeMonth": 289,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2024-11-17": 60,
       "2024-11-06": 28,
       "2024-10-24": 65,
       "2024-10-16": 413,
