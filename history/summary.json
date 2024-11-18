@@ -85,19 +85,19 @@
     "url": "$ONEBLU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "1blu",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.91%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.90%",
     "time": 80,
     "timeDay": 24,
-    "timeWeek": 21,
-    "timeMonth": 45,
+    "timeWeek": 22,
+    "timeMonth": 44,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-11-18": 0,
+      "2024-11-18": 13,
       "2024-11-14": 89
     }
   }
