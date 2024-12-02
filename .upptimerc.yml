@@ -12,6 +12,8 @@ sites:
       - Sametor
   - name: 1blu
     url: $ONEBLU
+  - name: Spastiko Unraid
+    url: $SPASTIKOUNRAID
 #    check: "tcp-ping"
 #    port: 443
 #  - name: Test Broken Site
