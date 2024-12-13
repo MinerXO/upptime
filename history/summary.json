@@ -112,19 +112,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "t0g3pii-server",
     "status": "up",
-    "uptime": "2.66%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.66%",
-    "uptimeMonth": "2.66%",
-    "uptimeYear": "2.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 112,
     "timeDay": 112,
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2024-12-13": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spastiko Unraid",
@@ -133,7 +131,7 @@
     "slug": "spastiko-unraid",
     "status": "up",
     "uptime": "93.11%",
-    "uptimeDay": "92.62%",
+    "uptimeDay": "92.64%",
     "uptimeWeek": "91.30%",
     "uptimeMonth": "93.11%",
     "uptimeYear": "93.11%",
