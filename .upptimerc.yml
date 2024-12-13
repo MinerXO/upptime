@@ -12,6 +12,8 @@ sites:
       - Sametor
   - name: 1blu
     url: $ONEBLU
+  - name: t0g3pii Server
+    url: $t0g3Server
   - name: Spastiko Unraid
     url: $SPASTIKOUNRAID
 #    check: "tcp-ping"
