@@ -13,7 +13,7 @@ sites:
   - name: 1blu
     url: $ONEBLU
   - name: t0g3pii Server
-    url: $t0g3Server
+    url: $T0G3SERVER
   - name: Spastiko Unraid
     url: $SPASTIKOUNRAID
 #    check: "tcp-ping"
