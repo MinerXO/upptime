@@ -1,7 +1,7 @@
 url: $SBIT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-30T23:07:00.747Z
+status: up
+code: 200
+responseTime: 339
+lastUpdated: 2024-12-31T12:57:22.587Z
 startTime: 2024-09-09T17:53:04.768Z
 generator: Upptime <https://github.com/upptime/upptime>
