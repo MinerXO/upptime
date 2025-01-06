@@ -14,11 +14,11 @@ sites:
     url: $ONEBLU
   - name: t0g3pii Server
     url: $T0G3SERVER
-  - name: t0g3pii Fritze
-    url: https://$T0G3FRITZ:44941
-    #check: "tcp-ping"
-    #port: 44941
-    ipv6: true
+#  - name: t0g3pii Fritze
+#    url: https://$T0G3FRITZ:44941
+#    #check: "tcp-ping"
+#    #port: 44941
+#    ipv6: true
   - name: t0g3pii Ookami
     url: $OOKAMI
     check: "tcp-ping"
