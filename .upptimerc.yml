@@ -14,8 +14,16 @@ sites:
     url: $ONEBLU
   - name: t0g3pii Server
     url: $T0G3SERVER
-  - name: Spastiko Unraid
-    url: $SPASTIKOUNRAID
+  - name: t0g3pii Server
+    url: $T0G3SERVER
+  - name: t0g3pii Fritze
+    url: $T0G3FRITZ
+    check: "tcp-ping"
+    port: 44941
+  - name: t0g3pii OOkami
+    url: $OOKAMI
+    check: "tcp-ping"
+    port: 22
 #    check: "tcp-ping"
 #    port: 443
 #  - name: Test Broken Site
