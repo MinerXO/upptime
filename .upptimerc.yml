@@ -24,6 +24,8 @@ sites:
     port: 22
   - name: Spastiko-Unraid
     url: $SPASTIKOUNRAID
+    - name: Nils-Server
+    url: $NILSSERVER
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
