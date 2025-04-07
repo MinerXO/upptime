@@ -1,6 +1,6 @@
 owner: MinerXO # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-#runner: "[self-hosted]"
+runner: "[self-hosted]"
 sites:
   - name: PW-Manager
     url: $MBIT
@@ -21,7 +21,7 @@ sites:
   - name: Spastiko-Unraid
     url: $SPASTIKOUNRAID
     check: "tcp-ping"
-    port: 6880
+    port: 8888
   - name: Nils-Server
     url: $NILSSERVER
 #  - name: Test Broken Site
