@@ -21,7 +21,7 @@ sites:
   - name: Spastiko-Unraid
     url: $SPASTIKOUNRAID
     check: "tcp-ping"
-    port: 8888
+    port: 8081
   - name: Nils-Server
     url: $NILSSERVER
 #  - name: Test Broken Site
