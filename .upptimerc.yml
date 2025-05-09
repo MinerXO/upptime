@@ -10,8 +10,8 @@ sites:
     url: $ITM
     assignees:
       - Sametor
-  - name: 1blu
-    url: $ONEBLU
+#  - name: 1blu
+#    url: $ONEBLU
   - name: t0g3pii-Server
     url: $T0G3SERVER
   - name: t0g3pii-Ookami
