@@ -18,10 +18,6 @@ sites:
     url: $OOKAMI
     check: "tcp-ping"
     port: 22
-  - name: Spastiko-Unraid
-    url: $SPASTIKOUNRAID
-    check: "tcp-ping"
-    port: 8081
   - name: Nils-Server
     url: $NILSSERVER
 #  - name: Test Broken Site
