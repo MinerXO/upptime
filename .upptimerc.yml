@@ -12,6 +12,10 @@ sites:
       - Sametor
 #  - name: 1blu
 #    url: $ONEBLU
+  - name: t0g3-Fritz
+    url: $T0G3FRITZ
+    port: 54321
+    check: "tcp-ping"
   - name: t0g3pii-Server
     url: $T0G3SERVER
   - name: t0g3pii-Ookami
@@ -20,10 +24,6 @@ sites:
     port: 22
   - name: Nils-Server
     url: $NILSSERVER
-  - name: IPv6 test
-    url: $T0G3FRITZ
-    port: 54321
-    check: "tcp-ping"
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
