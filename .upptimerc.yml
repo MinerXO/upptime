@@ -12,7 +12,7 @@ sites:
       - Sametor
 #  - name: 1blu
 #    url: $ONEBLU
-  - name: t0g3-Fritz
+  - name: t0g3pii-Fritz
     url: $T0G3FRITZ
     port: 54321
     check: "tcp-ping"
