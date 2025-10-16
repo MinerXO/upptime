@@ -1,9 +1,11 @@
 owner: MinerXO # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-#runner: "[self-hosted]"
+runner: "[self-hosted]"
 sites:
   - name: PW-Manager
     url: $MBIT
+  - name: MinerRoot
+    url: $MROOTSERVER
   - name: PW-Simon
     url: $SBIT
   - name: Joseph
