@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-16": 1
+      "2025-10-16": 26
     }
   },
   {
@@ -164,7 +164,7 @@
     "slug": "t0g3pii-server",
     "status": "up",
     "uptime": "94.10%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "1.74%",
     "uptimeWeek": "83.45%",
     "uptimeMonth": "93.05%",
     "uptimeYear": "94.10%",
