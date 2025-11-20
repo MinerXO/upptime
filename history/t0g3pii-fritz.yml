@@ -1,7 +1,7 @@
 url: $T0G3FRITZ
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-20T23:51:21.400Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2025-11-20T23:55:48.426Z
 startTime: 2025-09-22T19:01:45.622Z
 generator: Upptime <https://github.com/upptime/upptime>
