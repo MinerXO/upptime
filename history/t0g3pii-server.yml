@@ -1,7 +1,7 @@
 url: $T0G3SERVER
-status: up
-code: 200
-responseTime: 2471
-lastUpdated: 2026-01-14T23:09:24.135Z
+status: down
+code: 404
+responseTime: 1293
+lastUpdated: 2026-01-15T22:49:44.344Z
 startTime: 2024-12-13T20:24:26.483Z
 generator: Upptime <https://github.com/upptime/upptime>
