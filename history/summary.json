@@ -12,7 +12,7 @@
     "uptimeYear": "99.72%",
     "time": 302,
     "timeDay": 542,
-    "timeWeek": 577,
+    "timeWeek": 562,
     "timeMonth": 618,
     "timeYear": 343,
     "dailyMinutesDown": {
@@ -47,7 +47,7 @@
     "uptimeYear": "99.96%",
     "time": 201,
     "timeDay": 220,
-    "timeWeek": 264,
+    "timeWeek": 262,
     "timeMonth": 260,
     "timeYear": 201,
     "dailyMinutesDown": {
@@ -67,7 +67,7 @@
     "uptimeYear": "98.45%",
     "time": 417,
     "timeDay": 942,
-    "timeWeek": 956,
+    "timeWeek": 967,
     "timeMonth": 860,
     "timeYear": 498,
     "dailyMinutesDown": {
@@ -86,8 +86,7 @@
       "2025-05-18": 683,
       "2025-04-26": 358,
       "2025-04-22": 68,
-      "2025-04-20": 33,
-      "2025-03-25": 284
+      "2025-04-20": 33
     }
   },
   {
@@ -103,7 +102,7 @@
     "uptimeYear": "99.03%",
     "time": 567,
     "timeDay": 863,
-    "timeWeek": 993,
+    "timeWeek": 982,
     "timeMonth": 984,
     "timeYear": 614,
     "dailyMinutesDown": {
@@ -157,7 +156,7 @@
     "uptimeYear": "98.32%",
     "time": 933,
     "timeDay": 945,
-    "timeWeek": 1071,
+    "timeWeek": 1054,
     "timeMonth": 1055,
     "timeYear": 1097,
     "dailyMinutesDown": {
@@ -218,7 +217,7 @@
     "uptimeYear": "100.00%",
     "time": 56,
     "timeDay": 113,
-    "timeWeek": 134,
+    "timeWeek": 132,
     "timeMonth": 133,
     "timeYear": 62,
     "dailyMinutesDown": {}
@@ -229,18 +228,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nils-server",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "87.01%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.95%",
     "time": 431,
     "timeDay": 0,
-    "timeWeek": 822,
+    "timeWeek": 806,
     "timeMonth": 880,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-03-24": 0,
+      "2026-03-25": 146,
+      "2026-03-24": 41,
       "2025-11-25": 39,
       "2025-11-24": 37
     }
