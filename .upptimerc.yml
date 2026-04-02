@@ -24,8 +24,9 @@ sites:
     url: $OOKAMI
     check: "tcp-ping"
     port: 22
-  - name: Nils-Server
-    url: $NILSSERVER
+#  - name: Nils-Server
+#    url: $NILSSERVER
+
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
