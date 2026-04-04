@@ -202,19 +202,19 @@
     "url": "$OOKAMI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "t0g3pii-ookami",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "79.86%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.94%",
     "time": 57,
-    "timeDay": 157,
-    "timeWeek": 130,
-    "timeMonth": 134,
+    "timeDay": 130,
+    "timeWeek": 127,
+    "timeMonth": 133,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2026-04-04": 0
+      "2026-04-04": 290
     }
   }
 ]
