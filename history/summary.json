@@ -129,17 +129,17 @@
     "url": "$T0G3SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "t0g3pii-server",
-    "status": "down",
-    "uptime": "95.27%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "96.80%",
-    "time": 1023,
-    "timeDay": 1266,
-    "timeWeek": 1192,
-    "timeMonth": 1022,
-    "timeYear": 1271,
+    "status": "up",
+    "uptime": "95.24%",
+    "uptimeDay": "86.97%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "96.77%",
+    "time": 1133,
+    "timeDay": 29981,
+    "timeWeek": 8380,
+    "timeMonth": 2824,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2025-06-08": 18,
       "2025-06-09": 72,
@@ -187,7 +187,7 @@
       "2026-04-14": 1440,
       "2026-04-13": 609,
       "2026-05-09": 34,
-      "2026-05-30": 0
+      "2026-05-30": 188
     }
   },
   {
