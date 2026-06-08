@@ -77,13 +77,13 @@
     "url": "$ITM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "joseph",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.85%",
-    "time": 699,
+    "time": 700,
     "timeDay": 784,
     "timeWeek": 947,
     "timeMonth": 1527,
@@ -94,7 +94,8 @@
       "2026-02-12": 31,
       "2026-02-22": 19,
       "2026-04-20": 282,
-      "2026-05-24": 419
+      "2026-05-24": 419,
+      "2026-06-08": 0
     }
   },
   {
