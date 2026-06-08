@@ -6,10 +6,10 @@
     "slug": "pw-manager",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.83%",
     "time": 403,
     "timeDay": 511,
     "timeWeek": 668,
@@ -23,7 +23,7 @@
       "2025-11-20": 20,
       "2026-01-10": 26,
       "2026-04-21": 63,
-      "2026-06-08": 0
+      "2026-06-08": 31
     }
   },
   {
