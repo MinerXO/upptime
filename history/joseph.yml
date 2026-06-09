@@ -1,7 +1,7 @@
 url: $ITM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-09T00:04:50.318Z
+status: up
+code: 200
+responseTime: 996
+lastUpdated: 2026-06-09T08:29:15.563Z
 startTime: 2024-09-09T17:53:05.801Z
 generator: Upptime <https://github.com/upptime/upptime>
