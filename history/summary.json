@@ -6,10 +6,10 @@
     "slug": "pw-manager",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.57%",
     "time": 434,
     "timeDay": 573,
     "timeWeek": 620,
@@ -28,7 +28,7 @@
       "2026-07-15": 231,
       "2026-08-07": 173,
       "2026-08-14": 175,
-      "2026-08-16": 5
+      "2026-08-16": 35
     }
   },
   {
@@ -56,16 +56,16 @@
     "url": "$SBIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pw-simon",
-    "status": "down",
+    "status": "up",
     "uptime": "97.12%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
-    "time": 604,
-    "timeDay": 661,
-    "timeWeek": 705,
-    "timeMonth": 843,
+    "time": 605,
+    "timeDay": 724,
+    "timeWeek": 715,
+    "timeMonth": 842,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-09-05": 160,
@@ -73,7 +73,7 @@
       "2025-11-18": 169,
       "2025-11-20": 20,
       "2025-12-08": 16,
-      "2026-08-16": 1
+      "2026-08-16": 29
     }
   },
   {
@@ -130,7 +130,7 @@
       "2026-04-02": 198,
       "2026-04-01": 34,
       "2026-04-21": 348,
-      "2026-08-16": 1250,
+      "2026-08-16": 1280,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
